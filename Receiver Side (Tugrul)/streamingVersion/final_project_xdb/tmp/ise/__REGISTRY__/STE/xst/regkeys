@@ -1,6 +1,0 @@
-CommandLine
-/afs/csail.mit.edu/proj/redsocs/Xilinx10.1/ISE/bin/lin64/unwrapped/xst -ise /afs/athena.mit.edu/user/t/u/tugrul/Downloads/final_project_with_transmit/final_project.ise -intstyle ise -ifn /afs/athena.mit.edu/user/t/u/tugrul/Downloads/final_project_with_transmit/labkit.xst -ofn /afs/athena.mit.edu/user/t/u/tugrul/Downloads/final_project_with_transmit/labkit.syr -finalclean 1
-s
-FormatString
-xst [-ifn <InputFile>] [-ofn <OutputFile>] [-ise <iseProjectFile>] [--quiet] [-intstyle <Style>] [--deb <DebugLevel>] [--finalclean <Clean>] [--PcubeFlow] [--globOptFlow] [--XstNtrc]
-s
